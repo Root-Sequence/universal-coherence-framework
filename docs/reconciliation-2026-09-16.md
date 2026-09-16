@@ -35,6 +35,23 @@ The tracker must remain open: a claim-by-claim foundations audit, domain bibliog
 
 The booking script computes a specified finite example and 24 sensitivity fixtures. Eight implementation tests passed. Four contrasting cases were examined editorially; no independent reviewers or participants were involved. No test establishes the framework's universality, a preferred social rule, or improved performance over a competent baseline.
 
+## Recovery verification, 2026-09-16
+
+The UCF draft survived at `c4d7b236828a59139c0d5204b1faaed13154682a`. The companion paper had only partly staged changes and no branch update. Its reconciliation was recovered and completed at [paper commit 20740c7](https://github.com/Root-Sequence/root-sequence/commit/20740c794a5a01b2d616abc6f74bad9dcf83054d), on the existing draft PR rather than a new paper repository.
+
+Checks actually repeated in a fresh local runtime using Python 3.13.5:
+
+- Fetched both Python files from the saved UCF revision and matched their exact Git blob hashes: `booking_model.py` = `a2153cd05550224a6fe358d9176bde9b40f823fc`; `test_booking_model.py` = `b3ff9557715d732dbd8ed56035b747c84b942264`.
+- Reran the eight unittest tests, all passing. Reran the report: 24 distinct capacity/duration fixtures, three allocation rules per fixture, plus the base case. Base allocations remain `(2, 2)`, `(8, 0)`, and `(5, 1)` short/long requests; all leave 90 service minutes unmet.
+- Six additional sanity checks passed: fixture count, fixture uniqueness, zero capacity, zero demand, refusal to overwrite an existing output, and clean failure for a missing output directory. These are implementation checks, not a comparison of research methods.
+- Matched all nine companion-paper changed file hashes to their locally inspected contents. Checked 40 relative Markdown links in those files against prepared files or previously connector-verified repository paths. Checked twelve claim IDs, ten question IDs, three research-task IDs, five footnote definitions, five bibliography entries, and the 197-word abstract.
+- Rechecked the six archived snapshot blob IDs against their originals. Parsed the saved CFF as YAML and checked required root fields and its source hash; no official CFF-schema validation or GitHub citation-render test was performed.
+- Reopened the primary sources in the evidence log at its stated coverage: Shannon's introductory, entropy, and coding pages; the BABAR, Zurek, and Goodhart metadata/abstracts. This is not a complete literature review or reproduction of those studies.
+
+The interrupted progress text mentioned a 700-case comparison with 561 completion-count matches. Its protocol and outputs were not recovered in the verified code, which implements the 24-fixture report above. The larger count is not adopted as a result. Neither a completion-count match nor the current toy example would establish that UCF improves a review method.
+
+This recovery does not claim a full-repository link audit, rendered BibTeX validation, independent review, empirical findings, framework universality, author approval, or website deployment. Both repository branches and their pull requests are public drafts, not local-only or private workspaces.
+
 ## What remains to decide
 
 The author should review the fit/legitimacy distinction, the scope of each layer, and whether state labels deserve further development. The current comparison allows labels to be retained with local criteria, renamed, or omitted; it does not decide that for every application.

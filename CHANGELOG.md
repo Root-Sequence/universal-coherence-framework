@@ -1,5 +1,11 @@
 # UCF change record
 
+## 2026-09-16: interruption recovery and verification
+
+Confirmed the saved UCF candidate, recovered the companion living-paper changes, and reran the executable example from files matching their Git blob hashes. Eight unittest tests and six additional sanity checks passed; the report contains 24 distinct sensitivity fixtures. The untraceable 700-case / 561-match progress statement is excluded from the evidence record.
+
+Added the exact scope and limits of the recovery checks to [the reconciliation record](docs/reconciliation-2026-09-16.md#recovery-verification-2026-09-16), including nine verified companion-paper file hashes, 40 relative-link checks, source-review coverage, and the difference between YAML checks and full CFF validation. No model content, allocation rule, main branch, deployment, or author-review status is changed by this verification entry.
+
 ## 2026-09-16: proposed v1.1 reconciliation
 
 AI-assisted working revision, awaiting author review. No release, peer review, deployment, or automatic rewriting process is created.
