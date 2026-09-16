@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: >-
+  Cite the exact Git revision used. This metadata identifies the Root Sequence
+  project, not an approved paper byline or a peer-reviewed UCF release.
+title: Universal Coherence Framework
+abstract: >-
+  An exploratory cross-domain analytical framework. Definitions, comparisons,
+  and applications remain subject to testing, critique, and revision.
+authors:
+  - name: Root Sequence
+repository-code: https://github.com/Root-Sequence/universal-coherence-framework
+license: CC0-1.0

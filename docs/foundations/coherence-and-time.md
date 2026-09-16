@@ -1,228 +1,38 @@
-# coherence-and-time.md
+# Coherence and time: distinctions and open questions
 
-### Universal Coherence Framework — Core Concept Document
+**Status:** reconciliation draft, 2026-09-16; AI-assisted; author review pending. This is not a theory of physical time. The [earlier essay](../archive/coherence-and-time-before-2026-09-16.md) is preserved exactly, including the proposals revised here.
 
-## Overview
+## Separate four questions
 
-This document outlines a coherence-based interpretation of time within the Universal Coherence Framework (UCF). It integrates known properties of physical time (symmetry, reversibility, entropy) with system-level principles of coherence, agency, and embodied experience. The goal is to clarify how temporal dynamics operate at multiple layers of scale — physical, systemic, cognitive — and how these layers interact.
+**Dynamical invertibility:** Can a specified mathematical evolution map be inverted? Determinism alone does not imply this. As a constructed example, `f(x) = floor(x/2)` sends both 2 and 3 to 1, so knowing the output does not recover the input.
 
-The central insight:
+**Time-reversal symmetry:** Does a theory satisfy the relevant time-reversal transformation? This is not identical to asking whether an evolution map has an inverse. The BABAR experiment reports direct time-reversal violation in neutral B-meson transitions.[^babar] That excludes an unrestricted claim that all fundamental behavior is T-symmetric. It does not, by itself, decide whether an evolution map is invertible or explain every macroscopic arrow of time.
 
-> **Time is bidirectional in information, but unidirectional in experience.**
+**Retrodictive knowledge:** What past states can be inferred from available records under a stated model and uncertainty? Knowing a partial present record is not knowing the complete microstate. Neither “the past is always reconstructible” nor “the past is never knowable” follows from the framework.
 
-This dual structure is necessary to reconcile deterministic physical laws with the asymmetry of biological, cognitive, and social systems.
+**Experienced time:** How are sequence, memory, and continuity experienced? The earlier essay's connection to coherence is retained as a research question, not a demonstrated reduction of experience to coherence.
 
----
+## Decoherence is not generic breakdown
 
-## 1. Physical Time: Bidirectional in Information
+Zurek's account concerns quantum systems and their interaction with an environment.[^zurek] Calling social fragmentation “decoherence” does not transfer that mechanism or its evidential support. The initial check here is abstract-level; this revision does not claim to settle quantum interpretations or the origins of irreversibility.
 
-At the level of fundamental physics, the governing equations are largely **time-reversal symmetric**:
+## What UCF can examine now
 
-* Schrödinger equation
-* Maxwell’s equations
-* Dirac equation
-* Newtonian mechanics
-* Local formulations of General Relativity
+For a bounded system, specify what persists, what changes, what records survive, how uncertainty grows or shrinks, and what recovery would require. Track dependencies and maintenance over the relevant horizon. A software rollback, a reconstruction from records, and physical reversal are different claims.
 
-These equations permit both **forward** and **backward** evolution of a system’s state.
+No law that coherence accumulates forward is asserted. In a constructed example, a service can lose capacity after a failure, regain some after repair, or change its purpose altogether. Calling all three a forward coherence gradient would erase the distinction the model is meant to examine.
 
-### 1.1 Causal Bidirectionality
+Agency is not defined here as a physical disruption of time. Whether an intervention changes future conditions is a causal question; whether it is authorized is a separate normative question.
 
-If a system’s complete microstate is known at time *T*, the laws allow:
+## Preserved questions and revision decisions
 
-* **Predictive** evolution: from *T → T + Δ*
-* **Retrodictive** evolution: from *T → T – Δ*
+The earlier physical/systemic/cognitive layering remains available as an exploratory organization of questions. Its slogans about bidirectional information, a universal physical direction, and inevitable accumulation are not adopted as established foundations. Nothing here proves or disproves Everett-style interpretations, consciousness-based collapse, or a complete philosophical account of agency.
 
-In this sense:
+The systems project can study path dependence, delayed consequences, uncertainty, and repair without resolving those issues first. A future revision should define each physical or cognitive claim, find the appropriate domain evidence, and identify what would falsify its proposed connection to UCF.
 
-* **Effects encode causes.**
-* **Causes determine effects.**
+## References and limits
 
-The present moment functions as a *boundary condition* containing information that constrains both past and future trajectories.
+[^babar]: J. P. Lees et al., BABAR Collaboration, *Observation of Time Reversal Violation in the B0 Meson System*, Physical Review Letters 109, 211801 (2012), [arXiv:1207.5832v4](https://arxiv.org/abs/1207.5832v4). Metadata and abstract checked 2026-09-16; experiment not independently reproduced.
+[^zurek]: Wojciech H. Zurek, *Decoherence and the transition from quantum to classical — REVISITED* (2003), [arXiv:quant-ph/0306072v1](https://arxiv.org/abs/quant-ph/0306072v1). Metadata and abstract checked; not a full review of decoherence research.
 
-This is what allows fully deterministic models (e.g., Everett-style wavefunction evolution or classical Laplacian determinism) to treat time as informationally symmetric.
-
-### 1.2 Coherence in Physical Time
-
-At the fundamental scale:
-
-* Coherent systems maintain reversible, predictable evolution.
-* Decoherence introduces practical irreversibility, but not fundamental asymmetry.
-* Entropy increases, but time-reversal symmetry remains embedded within the micro-laws.
-
-Therefore:
-
-> **Physical time has no inherent direction; coherence flows symmetrically in both temporal directions.**
-
----
-
-## 2. System Time: Gradients, Attractors, and Irreversibility
-
-Biological, cognitive, ecological, and social systems operate at macroscopic scales where:
-
-* entropy
-* dissipation
-* information loss
-* irreversibility
-* memory constraints
-
-dominate.
-
-These systems are embedded in the physical world but are not governed by perfectly reversible microdynamics.
-
-### 2.1 Coherence Gradients
-
-At macroscopic scales:
-
-* Systems tend toward stable configurations (coherence attractors).
-* Disruptions push systems into new coherence regimes.
-* Restabilization creates a new temporal flow.
-
-This creates an emergent “arrow” of time at the systems level:
-
-> **Coherence accumulates forward; reconstruction backward is computationally possible but physically inaccessible.**
-
-This matches:
-
-* Bayesian inference
-* thermodynamic irreversibility
-* learning and adaptation
-* evolutionary processes
-
-### 2.2 Disruption and Resetting
-
-While micro-laws are reversible, macro-systems experience:
-
-* irreversible transitions
-* hysteresis
-* critical thresholds
-* path dependence
-
-These introduce “temporal commitments” that cannot be reversed without significant energetic or informational cost.
-
-This is where agency and intervention operate.
-
----
-
-## 3. Cognitive Time: Unidirectional in Experience
-
-Human experience is constrained by:
-
-* limited memory
-* metabolic entropy
-* unidirectional biological processes
-* hierarchical generative models
-* predictive processing architectures
-
-The result:
-
-* We remember the past but not the future.
-* We predict the future but cannot reconstruct past microstates.
-* Consciousness flows along a single experiential arrow.
-
-### 3.1 Phenomenological Asymmetry
-
-Consciousness:
-
-* integrates information temporally
-* compresses sensory streams into narrative form
-* relies on irreversible learning and memory formation
-* maps coherence through sequence, not simultaneity
-
-Thus:
-
-> **Experience is temporally linear even when physics is not.**
-
-### 3.2 Coherence as Perceptual Stability
-
-Humans perceive time through:
-
-* continuity
-* causality
-* narrative coherence
-
-Temporal coherence is not imposed by the universe; it is *constructed* by cognitive architecture.
-
----
-
-## 4. UCF Interpretation: Time as a Multi-Layer Coherence Structure
-
-Within the Universal Coherence Framework:
-
-### 4.1 Physical Layer
-
-* Coherence flows symmetrically.
-* Deterministic evolution governs microstates.
-* Information is reversible in principle.
-
-### 4.2 System Layer
-
-* Coherence forms attractors.
-* Disruptions redirect system trajectories.
-* Irreversibility emerges from complexity, entropy, and environmental coupling.
-
-### 4.3 Cognitive Layer
-
-* Coherence becomes narrative, embodied, and sequential.
-* Time becomes directional due to memory, prediction, and subjective continuity.
-
-### 4.4 Combined Structure
-
-The UCF model treats time as:
-
-* **informationally symmetric** at the fundamental level
-* **dynamically asymmetric** at the systems and cognitive levels
-
-This layered asymmetry explains:
-
-* why the universe is predictable backwards and forwards in principle
-* why humans only experience one direction
-* why systems evolve through disruption and stabilization
-* why coherence can propagate across time without implying multiple histories
-
----
-
-## 5. Implications for Coherence Research
-
-### 5.1 Coherence Across Time
-
-Understanding temporal structure allows us to model:
-
-* momentum of systems
-* inertia of defaults
-* conditions for transformation
-* trajectories of liberation or collapse
-
-### 5.2 Intervention and Agency
-
-Agency is a **localized disruption of system-time**:
-
-* breaking defaults
-* shifting coherence regimes
-* altering future attractors
-
-This is only meaningful in a universe where time has a *practical direction* despite being *theoretically symmetric.*
-
-### 5.3 Alignment with Deterministic Frameworks
-
-This interpretation is compatible with:
-
-* deterministic wavefunction evolution
-* decoherence-based classical emergence
-* systems theory
-* cognitive models of time
-  without requiring:
-* many-worlds branching (Everett)
-* consciousness-induced collapse (von Neumann–Wigner)
-
----
-
-## Conclusion
-
-The Universal Coherence Framework interprets time as:
-
-**(1) Fundamentally reversible in information** — a property of underlying physical laws.
-**(2) Practically irreversible in systems** — due to entropy, dissipation, and complexity.
-**(3) Experientially directional in consciousness** — due to memory, prediction, and embodied constraints.
-
-This layered temporal structure is essential for understanding coherence, agency, disruption, and transformation across all scales of the UCF.
+[Evidence log](../evidence.md) · [Model](../../models/ucf-model-v1.1-draft.md)

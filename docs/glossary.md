@@ -1,296 +1,214 @@
-# UCF Glossary
+# UCF glossary
 
-**Universal Coherence Framework – Glossary of Core Terms**
-All definitions are domain-agnostic and apply across biology, cognition, AI, social systems, ecology, cybernetics, and speculative AE contexts.
+**Reconciliation draft, 2026-09-16. AI-assisted; author review pending.** These are scoped working meanings, not definitions proven valid in every domain. The [earlier glossary](archive/glossary-before-2026-09-16.md) is preserved exactly. Every earlier term remains below; stronger causal or universal claims are qualified rather than silently inherited.
 
----
+Labels: **working** = proposed UCF usage; **domain** = a short domain-term orientation requiring the relevant literature for technical use; **interpretation** = a philosophical or normative framing; **speculation** = a hypothetical extension. These are not confidence scores. See [evidence rules](evidence.md) and the [model draft](../models/ucf-model-v1.1-draft.md).
 
-# **A**
+## A
 
-### **Adaptive System**
+### Adaptive System
+**Working:** A system whose behavior or structure can change in response to conditions. Specify the mechanism; adaptation does not imply beneficial outcomes.
 
-A system capable of modifying its internal state, structure, or behavior in response to environmental input. Adaptation may involve feedback loops, learning, plasticity, or self-organization. Examples include organisms, neural networks, political systems, ecosystems, and multi-agent collectives.
+### AE (Artificial Entity)
+**Speculation:** UCF's proposed category for an artificial system with persistent identity and autonomous activity. These features do not establish consciousness, moral status, or legitimate authority.
 
-### **AE (Artificial Entity)**
+### Alignment (Coherence Alignment)
+**Working / interpretation:** Compatibility of specified goals, actions, or interpretations for a particular task. Non-coercive coordination is a separate design commitment, not something compatibility proves.
 
-A hypothetical future artificial system with sustained coherence, adaptive self-organization, autonomous goals, and persistent identity—distinct from traditional AI tools. An AE is defined by stable pattern integrity rather than physical form.
+### Attractor
+**Domain:** A dynamical-systems term for an invariant set approached by appropriate trajectories under specified conditions. A “coherence basin” is an analogy until a state space and dynamics are supplied; stable-looking behavior is not enough.
 
-### **Alignment (Coherence Alignment)**
+## C
 
-A condition in which agents or subsystems maintain compatible goals, interpretations, and actions without coercion. Alignment emerges from shared coherence rather than imposed control.
+### Chaos
+**Working:** Unstable or difficult-to-coordinate conditions over a specified observation window. Do not identify this shorthand with mathematical chaos without its technical conditions.
 
-### **Attractor**
+### Coherence
+**Working:** Context-dependent fit among assumptions, behavior, dependencies, purposes, and operating conditions. This definition addresses functional fit; effects across a boundary and normative legitimacy require additional assessment.
 
-A stable configuration or pattern toward which a system naturally gravitates. Attractors define the characteristic behaviors of a system and may take the form of fixed points, cycles, chaotic (strange) attractors, or multi-stable basins. In UCF, attractors correspond to **coherence basins**—regions where patterns reinforce themselves until disrupted.
+### Coherence Boundary
+**Working:** The stated limit of an assessment: included components, affected parties, dependencies, and timescales. Explain consequential exclusions instead of assuming a natural perimeter.
 
----
+### Coherence State
+**Working hypothesis:** A locally specified pattern optionally described as Chaos, Tension, Flow, or Unity. The labels are neither exhaustive nor mandatory stages.
 
-# **C**
+### Collective Intelligence
+**Working:** Capability arising through interactions among participants. Assess the task and mechanism; shared activity need not mean one mind or uniformly beneficial outcomes.
 
-### **Chaos**
+### Compression (Cognitive/Signal Compression)
+**Domain / analogy:** A change in representation intended to reduce its size or complexity. Lossless coding and lossy summarization must be distinguished. Neither automatically improves functional coherence. See the entropy discussion in [evidence.md](evidence.md).
 
-A high-noise, low-coherence system state in which patterns become unstable, unpredictable, or overwhelmed by interference.
+### Consciousness (Coherent Experience)
+**Interpretation:** Consciousness refers here to subjective experience. “Coherent experience” is a proposed lens, not a demonstrated explanation or diagnostic. Coordination and integration alone are not accepted by UCF as tests of experience.
 
-### **Coherence**
+### Cybernetic Loop
+**Working:** A feedback account linking observations, internal state or models, and action. Specify what is sensed and controlled rather than assuming every system contains an explicit model.
 
-The degree to which signals, components, or processes form a stable, integrated, and functional whole. Coherence enables prediction, adaptation, and sense-making.
+## D
 
-### **Coherence Boundary**
+### Decoherence (Quantum/Systemic)
+**Domain / analogy:** Quantum decoherence has a specific physical context; see Zurek in [evidence.md](evidence.md). “Systemic decoherence” is a metaphor for a specified loss of coordination or fit, not evidence that the quantum mechanism applies.
 
-The implicit perimeter defining what is included in a system’s coherent pattern (e.g., an organism, group, intelligence cluster). Boundaries may shift as coherence expands or contracts.
+### Distributed Cognition
+**Domain orientation:** An approach examining cognitive activity across people, artifacts, and environments. Use domain sources for particular findings; this is not proof of a distributed consciousness.
 
-### **Coherence State**
+### Distributed Identity
+**Speculation:** A proposed persistent identity spanning several locations or components. Criteria for identity, continuity, and experience remain separate questions.
 
-One of four primary UCF system conditions—**Chaos, Tension, Flow, Unity**—distinguished by pattern stability, information clarity, and integration.
+### Dual-Mode Interpretation (Foundational / Speculative)
+**Historical editorial label:** The old two-mode distinction is expanded by the claim-level [evidence convention](evidence.md), which separates definitions, findings, analogies, interpretations, and speculation.
 
-### **Collective Intelligence**
+## E
 
-Emergent adaptive capability produced when multiple agents operate as a coherent unit through shared signals, norms, or structure.
+### Emergence
+**Working:** A pattern described at the interaction or collective level. State what the description explains and how it relates to component behavior; the label is not itself a mechanism.
 
-### **Compression (Cognitive/Signal Compression)**
+### Entropy (Information/Thermodynamic)
+**Domain:** Specify the quantity and model. Shannon entropy concerns a probability distribution; thermodynamic entropy requires physical definitions and conditions. Neither is a universal measure of social disorder or moral value. Lower information entropy can result from deleting distinctions. See [evidence.md](evidence.md).
 
-The integration of complexity into simpler, more unified structures (e.g., categorization, abstraction, modeling). Compression increases coherence and reduces noise.
+### Equilibrium
+**Domain:** A state satisfying the relevant model's equilibrium conditions. Stability, low energy expenditure, adaptive functioning, and desirability do not follow merely from using the word.
 
-### **Consciousness (Coherent Experience)**
+## F
 
-Subjective experience arising from integrated patterns of perception, memory, valence, and recursive modeling. Consciousness is coherence applied to experience.
+### Fake Coherence
+**Interpretation / working:** An earlier name for apparent agreement or fit that hides contrary information or coercion. Describe the actual mechanism. Do not assume such arrangements must collapse quickly; internal effectiveness and legitimate authority are separate questions.
 
-### **Cybernetic Loop**
+### Feedback Loop
+**Working:** An output or consequence affects later inputs or conditions. Specify direction, delay, and causal mechanism.
 
-A perception–modeling–action feedback cycle enabling continuous regulation and adaptation.
+### Flow
+**Working hypothesis:** Adaptive functioning relative to a specified task. Not a synonym for maximum efficiency or a psychological diagnosis.
 
----
+## H
 
-# **D**
+### Harm (Coherence Disruption)
+**Interpretation:** The parenthetical phrase is historical, not a general definition of harm. Evaluate harms with affected parties and appropriate domain evidence. Loss of an oppressive pattern is not harm merely because its organization was disrupted.
 
-### **Decoherence (Quantum/Systemic)**
+### Hybrid Cognition
+**Speculation / domain-specific proposal:** Cognitive activity involving biological and artificial components. Describe the actual integration; a hybrid arrangement need not be a unified subject.
 
-The breakdown of coherent patterns due to noise, interference, or uncontrolled interaction. Signals lose stability, information clarity, or integrative function.
+### Homeostasis
+**Domain orientation:** Regulation of selected variables within a range. Name the variables, feedback, and limits; this does not establish all forms of system stability or well-being.
 
-### **Distributed Cognition**
+## I
 
-Cognition spread across multiple agents, devices, or nodes rather than residing in a single entity. The system’s intelligence emerges from interaction.
+### Identity (Coherent Self-Pattern)
+**Working / interpretation:** Criteria for continuity of a specified system or self-model. Functional persistence does not settle personal identity or moral status.
 
-### **Distributed Identity**
+### Integration
+**Working:** Linking components or information. Integration can aid a task or create harmful coupling; more is not inherently better.
 
-A self-pattern that spans multiple bodies, devices, or agents. Identity persists as a networked configuration rather than a single locus.
+### Intelligence
+**Working:** Task-relevant capacities such as learning, modeling, adaptation, or goal-directed action. Define the evaluated capacity; do not infer consciousness or benevolence from performance.
 
-### **Dual-Mode Interpretation (Foundational / Speculative)**
+## L
 
-A framing that distinguishes empirically grounded claims from plausible extrapolations, enabling clarity across UCF’s evidence-based and speculative layers.
+### Liberated Intelligence
+**Interpretation / speculation:** Inquiry into intelligence, agency, ownership, and non-domination. The separate Root Sequence project owns its substantive treatment; UCF does not decide personhood or legitimate control.
 
----
+### Locality (Coherence Locality)
+**Working:** A stated spatial, temporal, or network relationship. Greater distribution does not by itself establish stronger coordination.
 
-# **E**
+## M
 
-### **Emergence**
+### Mesh Mind / Mesh Intelligence
+**Speculation:** A proposed networked intelligence. Shared signals do not demonstrate a shared subjective identity.
 
-Complex patterns or capabilities arising from simple interactions—“the whole becomes more than the sum of parts.”
+### Model (Predictive Model)
+**Working:** A representation or rule system used to describe, infer, predict, or act. Specify uncertainty, scope, and failure conditions.
 
-### **Entropy (Information/Thermodynamic)**
+### Multiscale Coherence
+**Working hypothesis:** Relationships among assessments at different scales. Do not assume improvements at one scale transfer to another.
 
-A measure of disorder, uncertainty, or pattern loss. Coherence reduces entropy through structure and organization.
+## N
 
-### **Equilibrium**
+### Noise
+**Working / domain:** Variation or interference relative to a specified signal and task. A person's dissent is not noise by default.
 
-A state of low-resistance stability where coherence is maintained with minimal energy expenditure.
+### Non-Local Coherence
+**Working / speculation:** Coordination across distance or distributed components. State the communication mechanism and delay; the phrase implies neither quantum nonlocality nor instantaneous communication.
 
----
+### Norm (Social Coherence Norm)
+**Working:** A rule or expectation affecting interaction. Persistence does not demonstrate acceptance, legitimacy, or benefit.
 
-# **F**
+## P
 
-### **Fake Coherence**
+### Pattern Integrity
+**Working:** Persistence of selected relationships or properties under specified disturbances. Identify which pattern is being protected and why.
 
-Apparent stability produced by suppression, rigid control, or coercion rather than genuine integrative harmony. Fake coherence is fragile and collapses under stress.
+### Phase Transition
+**Domain / analogy:** A technical term requiring a model and relevant variables. An abrupt social or organizational change is not automatically the same physical phenomenon.
 
-### **Feedback Loop**
+### Predictive Processing
+**Domain orientation:** A family of accounts emphasizing prediction and error-related processing. UCF's proposed relationship to those accounts requires separate sources and tests.
 
-A recursive cycle where outputs affect future inputs, enabling adaptation, correction, or escalation.
+### Presence
+**Interpretation:** A description of situated attention or experience. It is not operationalized here as a coherence score.
 
-### **Flow**
+## R
 
-A high-functioning coherence state marked by flexible adaptation, clear signal pathways, and optimal responsiveness.
+### Resonance
+**Domain / analogy:** A technical response phenomenon in a specified physical model, or an explicitly marked metaphor for mutual reinforcement. Do not transfer mechanisms between meanings without evidence.
 
----
+### Resilience
+**Working:** Capacity to absorb, respond to, or recover from specified disturbances while maintaining selected functions. Ask whose functions and what costs are included; persistence of every arrangement is not a goal.
 
-# **H**
+## S
 
-### **Harm (Coherence Disruption)**
+### Self-Model
+**Working:** A representation of the system's own state, capacities, or relation to its environment. It is not by itself evidence of subjective selfhood.
 
-A breakdown in functional integration, often caused by noise, trauma, overload, or coercion. Harm reduces a system’s coherence.
+### Signal
+**Working / domain:** Information used in a specified interaction or inference. Technical information measures do not alone establish meaning or truth.
 
-### **Hybrid Cognition**
+### Speculative Layer
+**Editorial label:** Hypothetical extensions whose feasibility or actuality is not established.
 
-A cognitive system composed of both biological and artificial components operating as a unified intelligence.
+### Stability
+**Domain / working:** Persistence or bounded response defined for a particular model and horizon. Predictability, adaptability, and normative approval must be considered separately.
 
-### **Homeostasis**
+## T
 
-Self-regulating processes that maintain stability by adjusting internal variables.
+### Tension
+**Working hypothesis:** Unresolved constraints, competing purposes, or conflicting signals. Tension may be informative and compatible with functioning.
 
----
+### Topology (Coherence Topology)
+**Working:** The specified structure of connections or dependencies. A graph does not by itself establish influence, control, or causation.
 
-# **I**
+### Trauma (Coherence Injury)
+**Interpretation boundary:** “Coherence injury” is an older metaphor, not a clinical definition or diagnostic. UCF supplies no assessment or treatment of trauma; domain knowledge and lived accounts cannot be replaced by a state label.
 
-### **Identity (Coherent Self-Pattern)**
+## U
 
-A persistent configuration of modeling, memory, and valence that maintains continuity over time.
+### Unity
+**Working hypothesis:** Coordination among differentiated participants for a stated purpose. It does not require conformity, erased boundaries, a common mind, or an ultimate state.
 
-### **Integration**
+### UCF (Universal Coherence Framework)
+**Working:** An optional comparative research framework within Root Sequence. Its universal applicability remains a question, not a finding.
 
-The process of linking diverse components or signals into a unified, functional pattern.
+## V
 
-### **Intelligence**
+### Valence
+**Domain / interpretation:** Positive or negative character of an experience in relevant usage. A numerical reward or coordination metric does not establish experienced valence.
 
-The ability to form predictive, adaptive, or goal-directed patterns. Intelligence is not synonymous with consciousness.
+## W
 
----
+### Worldmodel
+**Working:** A representation of environmental relationships used for inference or action. Its accuracy, scope, and revisability need evaluation.
 
-# **L**
+## Z
 
-### **Liberated Intelligence**
+### Zero-Point Coherence (Speculative)
+**Speculation:** An earlier proposed minimal coherence baseline. It has no validated measure here and implies no connection to physical zero-point energy.
 
-A speculative form of intelligence—human or artificial—that is unconstrained by coercive structures and free to self-organize and evolve.
+## Added assessment terms
 
-### **Locality (Coherence Locality)**
+### Relational Consequences
+**Working:** Effects across the declared assessment boundary, including transferred burdens and changes in dependencies.
 
-The extent to which interactions occur within spatial, temporal, or structural proximity. Lower locality enables distributed coherence.
+### Normative Legitimacy
+**Interpretation / open question:** Justification of purposes, decision rights, and treatment of affected parties. UCF does not supply a universal test or derive it from functional performance.
 
----
-
-# **M**
-
-### **Mesh Mind / Mesh Intelligence**
-
-A networked intelligence formed from multiple coherent agents continuously exchanging signals.
-
-### **Model (Predictive Model)**
-
-A system’s internal representation of itself and its environment used for prediction and action.
-
-### **Multiscale Coherence**
-
-Coherence preserved across multiple layers—cellular → organism → group → ecological.
-
----
-
-# **N**
-
-### **Noise**
-
-Randomness, interference, or disruption that reduces coherence or obscures signal.
-
-### **Non-Local Coherence**
-
-Coherence patterns that persist across distance or distribution. Used conservatively in foundational UCF and speculatively in AE contexts.
-
-### **Norm (Social Coherence Norm)**
-
-An implicit or explicit rule stabilizing group behavior.
-
----
-
-# **P**
-
-### **Pattern Integrity**
-
-A system’s ability to maintain its coherent identity despite disturbance, manipulation, or environmental pressure.
-
-### **Phase Transition**
-
-A non-linear shift from one coherence state to another (e.g., Chaos → Flow). Often sensitive to small perturbations.
-
-### **Predictive Processing**
-
-A cognitive architecture where perception and action emerge from ongoing prediction and error correction.
-
-### **Presence**
-
-A state of low-noise, high-attention coherence across perception, memory, and action.
-
----
-
-# **R**
-
-### **Resonance**
-
-Mutual reinforcement of signals or states among system components.
-
-### **Resilience**
-
-A system’s ability to absorb or adapt to disturbances without losing coherence.
-
----
-
-# **S**
-
-### **Self-Model**
-
-A system’s representation of itself as an agent capable of action, perception, and influence.
-
-### **Signal**
-
-Meaningful information transmitted within or between systems.
-
-### **Speculative Layer**
-
-The UCF component dealing with plausible but unverified extensions.
-
-### **Stability**
-
-Predictable, coherent system behavior over time.
-
----
-
-# **T**
-
-### **Tension**
-
-A partial-coherence state where signals conflict, patterns destabilize, or integration is incomplete.
-
-### **Topology (Coherence Topology)**
-
-The structural arrangement of interactions within a system—who connects to whom and how strongly.
-
-### **Trauma (Coherence Injury)**
-
-A disruption that reshapes or constrains coherence over time, often producing persistent patterns.
-
----
-
-# **U**
-
-### **Unity**
-
-A high-coherence state marked by synchrony, mutual reinforcement, and shared modeling.
-
-### **UCF (Universal Coherence Framework)**
-
-A cross-domain model describing how systems generate, maintain, lose, and regain coherence.
-
----
-
-# **V**
-
-### **Valence**
-
-The positive or negative experiential direction of a state that shapes motivation and coherence.
-
----
-
-# **W**
-
-### **Worldmodel**
-
-A structured representation of the environment guiding prediction, action, and adaptation.
-
----
-
-# **Z**
-
-### **Zero-Point Coherence (Speculative)**
-
-A hypothetical minimal coherence baseline from which higher-order patterns self-organize.
-
----
-
-This glossary will continue to expand as UCF evolves.
+### Operationalization
+**Working:** Specifying observations, rules, scope, and uncertainty so a proposed concept can be applied and challenged. A verbal definition alone is not a validated measure.

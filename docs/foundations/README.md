@@ -1,137 +1,25 @@
-# Foundations — Universal Coherence Framework
+# Foundations: sources and conceptual bridges
 
-The **Foundations** section provides the scientific backbone of the Universal Coherence Framework (UCF).  
-It includes domain-grounded, evidence-based concepts from:
+**Audit status, 2026-09-16:** incomplete. This directory contains domain literature, proposed mappings, and interpretations. It is not a certified empirical foundation for UCF. The earlier claims that this layer was complete, purely empirical, or demonstrated universality are withdrawn from this index; the [original index](../archive/foundations-index-before-2026-09-16.md) is preserved.
 
-- cognitive science  
-- neuroscience  
-- systems theory  
-- complexity science  
-- ecology  
-- information theory  
-- communication theory  
-- multi-agent systems  
-- organizational resilience  
-- collective intelligence  
+## Contents and review needs
 
-These documents do **not** include speculation.  
-They represent the stable, empirical layer upon which the rest of the UCF model is built.
+- [Coherence and time](coherence-and-time.md): revised scope, definitions, a checked experimental counterexample, and preserved speculative questions.
+- [Coherence and systems theory](coherence-and-systems-theory.md): feedback and regulation; claim-level source audit pending.
+- [Noise, entropy, and complexity](noise-entropy-and-complexity-science.md): technical meanings must be distinguished from systemic metaphors; audit pending.
+- [Information and signal integrity](information-theory-and-signal-integrity.md): coding and information measures; audit pending.
+- [Predictive processing](predictive-processing-and-coherence.md) and [distributed cognition](distributed-cognition.md): the two files have identical blobs at the audited revision despite different names. Their intended content must be recovered before either is treated as a distinct verified source.
+- [Language and technology](language-technology-and-chaos.md): cognitive and symbolic interpretation; audit pending.
+- [Multi-agent communication](multi-agent-communication-theory.md) and [collective intelligence](collective-intelligence-foundations.md): separate coordination findings from extrapolation; audit pending.
+- [Ecological resilience](ecological-stability-and-resilience.md) and [organizational resilience](resilience-engineering-and-organizational-coherence.md): domain evidence and applicability require separate review.
+- [Reality as coherence](reality-as-coherence.md): philosophical title and interpretation require classification, not automatic empirical status.
 
----
+The audit flags above identify unfinished checks, not conclusions that every statement in each file is false. The duplicate-file finding comes from the Git tree at `78277d3f3e54f4150e71fcdf7aab589a4fcb9f38`; no missing prose was reconstructed.
 
-## Purpose of Foundations
+## How to use and extend this layer
 
-The Foundations layer serves four functions:
+Use the [evidence convention and source log](../evidence.md). A foundation claim needs its own source, domain, assumptions, and coverage record. Cross-domain transfer is a further hypothesis requiring evidence. Terms imported from physics or information theory must retain their technical limits or be explicitly marked as metaphor.
 
-1. **Scientific grounding**  
-   Establishes the formal concepts and mechanisms behind coherence, stability, signal flow, and emergent behavior.
+Keep interpretations available but distinguish them from reported findings. Cite original research where practical. Do not certify a directory by name, a bibliography by length, or a model by proximity to an established field.
 
-2. **Domain integration**  
-   Brings together evidence from biological, artificial, ecological, and social systems to demonstrate universality.
-
-3. **Conceptual clarity**  
-   Defines terms, processes, and observable properties used throughout UCF.
-
-4. **Reference layer**  
-   Allows speculative and interpretive documents to build on rigorous, well-supported theory.
-
----
-
-## Scope
-
-This directory contains documents that address:
-
-- how adaptive systems regulate themselves  
-- how information flows through networks  
-- how collective behavior emerges  
-- how entropy and noise shape coherence  
-- how systems maintain stability under stress  
-- how multiple agents coordinate and synchronize  
-- how ecological and organizational systems avoid collapse  
-
-No document in this directory includes hypothetical extensions or future projections.
-
----
-
-## Contents
-
-### **Cognition & Internal Regulation**
-- **language-technology-and-chaos.md**  
-  Language as a cognitive technology; symbolic coherence and external structure.
-
-- **predictive-processing-and-coherence.md**  
-  Coherence through prediction error minimization and active inference.
-
-- **distributed-cognition.md**  
-  Cognition across people, tools, and environments.
-
----
-
-### **Systems Theory & Complexity**
-- **coherence-and-systems-theory.md**  
-  Feedback, regulation, attractors, and stability across systems.
-
-- **noise-entropy-and-complexity-science.md**  
-  Entropy, criticality, noise, and phase transitions.
-
----
-
-### **Communication & Multi-Agent Dynamics**
-- **multi-agent-communication-theory.md**  
-  Bandwidth, synchronization, redundancy, error correction.
-
-- **collective-intelligence-foundations.md**  
-  Swarm behavior, human group cognition, aggregation mechanisms.
-
-- **information-theory-and-signal-integrity.md**  
-  Mutual information, Shannon entropy, channel capacity, redundancy.
-
----
-
-### **Ecological & Organizational Stability**
-- **ecological-stability-and-resilience.md**  
-  Panarchy, feedback loops, redundancy, regime shifts.
-
-- **resilience-engineering-and-organizational-coherence.md**  
-  High-reliability organizations, human factors, drift, adaptive capacity.
-
----
-
-## How to Use These Documents
-
-Researchers, builders, and collaborators can use Foundations to:
-
-- cite empirical concepts in whitepapers or publications  
-- anchor speculative models to established science  
-- trace coherence mechanisms across different domains  
-- build simulations or coherence diagnostics  
-- connect theoretical work to real-world systems behavior  
-
----
-
-## Contribution Guidelines
-
-When adding or modifying documents in this folder:
-
-- New content **must** be empirical, testable, or widely supported by research.  
-- Cross-domain mappings are allowed but must remain evidence-based.  
-- Speculative or philosophical material belongs in `/docs/speculation/` or `/docs/interpretation/`.  
-- Include references or citations where relevant.  
-- Aim for clear definitions, examples, and applicability across domains.
-
----
-
-## Relationship to Other Sections
-
-- **Foundations** → empirical base  
-- **Speculation** → plausible extensions built on this base  
-- **Interpretation** → meaning, philosophical framing, long-horizon reflection  
-
-Together, these layers create the full Universal Coherence Framework.
-
----
-
-## Status
-
-**The Foundations layer is complete as of v0.1**, and may receive additions or refinements as new empirical insights emerge.
-
+[Documentation](../README.md) · [Claims](../claims.md) · [Contribution guide](../../CONTRIBUTING.md)
