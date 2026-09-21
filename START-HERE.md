@@ -8,6 +8,8 @@ review_sources: README.md, docs/README.md, docs/glossary.md, docs/claims.md, doc
 review_when: definitions, claims, evidence, model version, status, or scope changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 The Universal Coherence Framework is an exploratory, falsifiable cross-domain model for comparing patterns of instability, constraint, adaptation, and coordination.
