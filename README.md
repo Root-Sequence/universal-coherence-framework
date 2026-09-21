@@ -1,5 +1,7 @@
 # Universal Coherence Framework (UCF)
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 > **An exploratory cross-domain model for asking how systems hold together, fragment, adapt, and recover.**
 
 **Ecosystem role:** optional analytical framework within the wider [Root Sequence ecosystem](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md)  
