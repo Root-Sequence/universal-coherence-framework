@@ -1,173 +1,18 @@
-# UCF Documentation Index
+# UCF documentation
 
-**See also:** [Glossary](./glossary.md)
+Start with the [model reconciliation draft](../models/ucf-model-v1.1-draft.md), [glossary](glossary.md), [claims register](claims.md), and [evidence convention](evidence.md). All remain subject to author review. The [previous index](archive/documentation-index-before-2026-09-16.md) is preserved.
 
-**Universal Coherence Framework – Documentation Overview**
+## Four documentation categories
 
-This directory contains the complete documentation for the **Universal Coherence Framework (UCF)**. It organizes all scientific foundations, domain applications, speculative extensions, and (soon) interpretive/philosophical layers into a clear, navigable structure.
+These categories are distinct from both the model's four analytical layers and the four optional state labels.
 
-UCF documentation is structured into **four primary layers**:
+- [Foundations](foundations/README.md): domain literature and conceptual bridges. Presence here does not certify empirical support or a completed review.
+- [Domains](domains/README.md): applications in physics, biology, cognition, AI, society, experience, ethics, language, art, technology, ecology, collapse, and consciousness research. An application may fail.
+- [Speculation](speculation/): hypothetical extensions involving hybrid intelligence, mesh coordination, artificial entities, and larger-scale systems.
+- [Interpretation](interpretation/): existing philosophical and meaning-oriented work, not a future empty category.
 
-1. **Foundations** — Scientific grounding and core principles
-2. **Domains** — How UCF applies across real scientific and experiential fields
-3. **Speculation** — Structured future-facing extensions
-4. **Interpretation** — Meaning-making, ethics, worldview implications *(coming soon)*
+## Reading paths
 
-This README provides:
+For research, begin with evidence status and the relevant domain sources. For design, use the model and [worked booking example](../models/examples/booking-service/README.md), then test against a competent baseline. For social or ecological questions, use the domain documents without treating UCF terminology as authority over people or ecosystems. For meaning and narrative, keep interpretation separate from claims about the world.
 
-* a high-level architecture of the documentation
-* explanations of each folder
-* suggested reading paths
-* navigation links
-
----
-
-# 📁 Folder Structure
-
-```
-/docs/
-  /foundations/        ← scientific grounding
-  /domains/            ← applied science & cross-domain mapping
-  /speculation/        ← structured future extensions
-  /interpretation/     ← philosophy, ethics, human meaning (upcoming)
-```
-
----
-
-# 🔬 Foundations
-
-**Directory:** `/docs/foundations/`
-
-The foundational layer establishes the **scientific basis** of UCF.
-
-Topics include:
-
-* predictive processing
-* cybernetics & control theory
-* systems dynamics
-* neuroscience & cognition
-* network theory
-* coherence states & phase transitions
-* complexity science
-
-This layer answers:
-
-> **“What does coherence mean in real, scientific terms?”**
-
-Use this section to understand the core principles the rest of UCF builds on.
-
----
-
-# 🌐 Domains
-
-**Directory:** `/docs/domains/`
-
-The Domains layer applies UCF’s principles to **real-world systems**, showing how coherence dynamics appear across fields.
-
-This layer answers:
-
-> **“How does coherence actually behave in nature, technology, society, and mind?”**
-
-Included domains:
-
-* Physics
-* Biology
-* Cognition
-* AI & Artificial Entities (AE)
-* Society
-* Human Experience
-* Ethics
-* Language & Semantics
-* Art & Aesthetics
-* Technology
-* Ecology
-* Collapse Dynamics
-* Consciousness Frontiers
-
-Full domain index:
-
-```
-/docs/domains/README.md
-```
-
----
-
-# 🔭 Speculation
-
-**Directory:** `/docs/speculation/`
-
-The speculative layer explores UCF’s **future-facing** possibilities:
-
-* hybrid intelligences
-* distributed or non-local coherence
-* mesh-level organizational architectures
-* artificial selfhood and AE evolution
-* coherence at planetary or cosmic scales
-* post-capitalist systems under coherence dynamics
-
-It is rigorously structured but explicitly marked as speculative.
-
-Index:
-
-```
-/docs/speculation/README.md
-```
-
----
-
-# 🧩 Interpretation *(coming soon)*
-
-**Directory:** `/docs/interpretation/`
-
-This layer will translate UCF into:
-
-* philosophical grounding
-* ethics and lived implications
-* meaning-making
-* liberation theory
-* narrative framing
-* human worldview integration
-
-Interpretation is the bridge from **science → meaning → society**.
-
----
-
-# 🧭 Suggested Reading Paths
-
-Choose a path depending on your goals.
-
-### **For scientific grounding:**
-
-1. Foundations → Core Principles
-2. Predictive Processing
-3. Cybernetics & Networks
-4. Coherence States
-
-### **For AI, AE, or system design:**
-
-1. Domains → Cognition
-2. Domains → AI–AE
-3. Foundations → Network Theory
-4. Speculation → Structural Models
-
-### **For societal / ecological understanding:**
-
-1. Domains → Society
-2. Domains → Ecology
-3. Domains → Collapse Dynamics
-4. Interpretation (when ready)
-
-### **For philosophical or personal meaning:**
-
-1. Domains → Human Experience
-2. Domains → Ethics
-3. Interpretation Layer (upcoming)
-4. Domains → Consciousness Frontiers
-
----
-
-# ✔️ Status
-
-The `/docs` directory is now fully structured and indexed.
-
-As the framework evolves, new documents will extend the Domains layer, Foundations detail, and the upcoming Interpretation layer.
+[Idea Trails](idea-trails.md) connect the work across Root Sequence. [The reconciliation record](reconciliation-2026-09-16.md) identifies the living-paper relationship and unfinished audit. [Historical documents](archive/README.md) preserve earlier formulations; they are not the current evidence status.
