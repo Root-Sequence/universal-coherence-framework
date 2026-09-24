@@ -4,7 +4,7 @@
 
 <!-- START-HERE-META
 format: 1
-review_sources: README.md, docs/README.md, docs/glossary.md, models/README.md
+review_sources: README.md, docs/README.md, docs/glossary.md, docs/claims.md, docs/evidence.md, models/README.md
 review_when: definitions, claims, evidence, model version, status, or scope changes
 END-START-HERE-META -->
 
@@ -22,16 +22,15 @@ The Universal Coherence Framework is an exploratory, falsifiable cross-domain mo
 
 ## Current reality
 
-UCF currently offers a provisional four-state vocabulary—Chaos, Tension, Flow, Unity—alongside living model drafts and exploratory documentation. The labels are analytical shorthand, not verified stages every system follows, moral rankings, clinical diagnoses, or permission to centralize control.
-
-A more tightly scoped v1.1 model, claims register, evidence rules, and change record are proposed in [draft PR #2](https://github.com/Root-Sequence/universal-coherence-framework/pull/2). Those proposed files are not default-branch sources unless that draft is reviewed and merged.
+UCF’s public `main` branch now contains the proposed v1.1 reconciliation alongside the preserved v1 model. The proposal separates four analytical layers—internal, inter-agent, systemic, and temporal—from the optional Chaos, Tension, Flow, and Unity labels. It is AI-assisted and awaiting author review, not a reviewed release or validated universal theory; its worked example is synthetic and its software checks are not empirical validation.
 
 ## The smallest useful map
 
 - [`README.md`](README.md) — current orientation, methodology, evidence boundaries, and research questions.
-- [`docs/glossary.md`](docs/glossary.md) — existing working terms; read them under the README's scope cautions.
-- [`models/README.md`](models/README.md) — current model v1 and cross-intelligence notes.
-- [`docs/README.md`](docs/README.md) — documentation index; some descriptions are broader than the material currently established.
+- [`docs/glossary.md`](docs/glossary.md) — scoped working definitions.
+- [`docs/claims.md`](docs/claims.md) and [`docs/evidence.md`](docs/evidence.md) — proposed claims, evidence rules, and limits.
+- [`models/README.md`](models/README.md) — the preserved v1 model, proposed v1.1 model, and worked examples.
+- [`docs/README.md`](docs/README.md) — documentation index.
 
 ## Where it fits
 
@@ -39,8 +38,8 @@ UCF is one optional analytical framework inside Root Sequence. Other projects ma
 
 ## What to do next
 
-- **Learning the vocabulary:** read the [glossary](docs/glossary.md) beside the [README's epistemic framing](README.md#epistemic-framing).
-- **Evaluating credibility:** use the README's [methodology](README.md#methodology), [epistemic framing](README.md#epistemic-framing), and [research questions](README.md#research-questions).
+- **Learning the vocabulary:** read the [glossary](docs/glossary.md).
+- **Evaluating credibility:** read [claims](docs/claims.md) beside [evidence](docs/evidence.md).
 - **Applying UCF:** define the domain, observable variables, limits, counterexamples, and what would make the comparison fail.
 - **Disagreeing:** preserve the counterexample; forcing a fit makes the framework less useful.
 
