@@ -1,5 +1,7 @@
 # Universal Coherence Framework (UCF)
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 UCF is an exploratory framework for asking how systems hold together, interact, fragment, adapt, and recover. It compares patterns across domains while testing whether those comparisons are useful or misleading.
 
 **Ecosystem role:** optional analytical framework within [Root Sequence](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).  
