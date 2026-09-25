@@ -370,6 +370,106 @@ Therefore UCF should not imply:
 
 ---
 
+## 7C. Critical systems predecessors: power, boundary, legitimacy, and method pluralism
+
+A further pass substantially narrows the novelty of UCF's boundary/power questions.
+
+### Critical Systems Heuristics
+
+Werner Ulrich's Critical Systems Heuristics (CSH) explicitly treats system boundaries as **boundary judgments** and organizes twelve critical questions around four sources of influence:
+
+- motivation / purpose;
+- control / power;
+- knowledge;
+- legitimacy.
+
+CSH also distinguishes people who are **involved** in an intervention from those who are **affected** but lack comparable control.
+
+This is a close predecessor to UCF questions about:
+
+- whose purpose defines success;
+- who controls resources and revision;
+- whose knowledge counts;
+- who bears externalized consequences;
+- who is affected but excluded from authority;
+- whether the assessment boundary hides relevant people or effects.
+
+Sources:
+
+- Werner Ulrich & Martin Reynolds, "Critical Systems Heuristics": https://wulrich.com/downloads/ulrich_reynolds_2010_prepub.pdf
+- Werner Ulrich, CSH overview: https://wulrich.com/downloads/ulrich_2002b.pdf
+
+### Critical Systems Thinking
+
+Critical Systems Thinking (CST) explicitly rejects universal reliance on one systems method. Its traditions emphasize:
+
+- critical awareness;
+- social awareness;
+- methodological / theoretical pluralism;
+- human emancipation and attention to power.
+
+Gerald Midgley's compressed formulation emphasizes critical awareness, emancipation, and methodological pluralism.
+
+This strongly resembles the methodological correction produced by UCF's own editorial pilots:
+
+> use competent domain methods first; use UCF only where its synthesis adds a consequential connection or omission.
+
+Sources:
+
+- Michael C. Jackson, "The origins and nature of critical systems thinking," *Systemic Practice and Action Research* 4 (1991), 131–149.
+- Gerald Midgley, "What is this thing called CST?" (1996).
+
+### Soft Systems Methodology
+
+Checkland's Soft Systems Methodology (SSM) foregrounds multiple worldviews and problem framings. CATWOE makes explicit customers/affected parties, actors, transformation, worldview, ownership, and environmental constraints.
+
+For contested human problem situations, SSM may therefore be a better-established method than asking UCF to rediscover that different actors define the "system" differently.
+
+### Implication
+
+UCF should **not** claim novelty for:
+
+- boundary critique;
+- affected-but-not-involved stakeholders;
+- linking purpose to power and legitimacy;
+- methodological pluralism;
+- multiple-worldview problem framing.
+
+The candidate UCF contribution becomes narrower:
+
+> a lightweight routing/synthesis layer that helps users notice which established systems tradition or domain method is appropriate, while preserving cross-project vocabulary where that genuinely reduces fragmentation.
+
+That proposition still requires testing.
+
+---
+
+## 7D. Organizational cybernetics predecessor: the Viable System Model
+
+Stafford Beer's Viable System Model (VSM) links organizational viability with recursive organization, local autonomy, coordination, environmental scanning/adaptation, and organizational identity/policy.
+
+This overlaps UCF/Root Sequence questions about:
+
+- continuity while changing;
+- local autonomy versus wider cohesion;
+- sensing environmental change;
+- future-facing adaptation;
+- organizational identity.
+
+VSM also makes a strong theoretical claim about organizational viability and has a substantial case/application literature plus later empirical tests.
+
+UCF should therefore treat VSM as a serious comparator, not silently reinvent organizational viability through coherence terminology.
+
+Relevant sources include:
+
+- Espinosa, Harnden & Walker (2008), "A complexity approach to sustainability – Stafford Beer revisited," *European Journal of Operational Research*.
+- Schwaninger & Scheef (2016), "A Test of the Viable System Model: Theoretical Claim vs. Empirical Evidence," *Cybernetics and Systems*.
+
+The appropriate question is not whether UCF can redescribe VSM concepts.
+
+It is whether UCF adds a useful cross-domain route **without reducing organizational cybernetics to generic coherence language**.
+
+---
+
 ## 8. What should change in UCF now
 
 ### Keep
