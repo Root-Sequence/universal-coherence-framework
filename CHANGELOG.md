@@ -16,6 +16,10 @@ AI-assisted related-work and evidence-boundary pass prompted by Root Sequence dr
 - Corrected the Speculation index so its reading order is not presented as a real-world Chaos → Tension → Flow → Unity developmental sequence.
 - Marked high-risk older systems-theory, attractor, resilience/adaptation, developmental, and cross-scale pages with explicit audit notices while preserving their text for provenance.
 
+### Prior-art extension
+
+A follow-up lineage pass found direct predecessors in Ashby's state/parameter distinction, ultrastability and requisite variety; Conant/Ashby's Good Regulator theorem; Argyris/Schön double-loop learning; resilience engineering; and Woods's sustained adaptability. It also found materially different prior uses of the phrase "dynamic coherence." The active draft therefore makes no coinage or mechanism-novelty claim.
+
 ### Evidence boundary
 
 The pass found serious adjacent literatures for many components but did **not** establish "dynamic coherence" as an established scientific variable, a universal causal mechanism, or a method that outperforms existing systems approaches. Those remain open tests.
