@@ -295,6 +295,81 @@ If those methods already recover the same consequential distinctions with less c
 
 ---
 
+## 7A. Cybernetic and organizational-learning predecessors
+
+A further prior-art pass materially narrows the novelty space.
+
+### Ashby: variable versus parameter change
+
+W. Ross Ashby explicitly distinguished change in a variable/state from change in a parameter/field, using the distinction to separate changes that are behavior from changes from one behavior regime to another.
+
+This is a direct predecessor of the Root Sequence state-versus-transition-dynamics distinction.
+
+Source:
+
+- Ashby, "Feedback, Adaptation and Stability" (1960): https://panarchy.org/ashby/adaptation.1960.html
+
+### Ashby: ultrastability
+
+Ashby's ultrastable system changes parameters when ordinary dynamics drive essential variables toward critical states.
+
+This is a strong predecessor for second-order adaptation, not a general theory of institutions, agency, or consciousness.
+
+### Requisite variety
+
+Ashby's Law of Requisite Variety formally constrains regulation by the regulator's available variety/information capacity relative to disturbances.
+
+This is relevant to response diversity but is not a measure of human agency or legitimate power.
+
+### Good Regulator theorem
+
+Conant and Ashby's Good Regulator theorem, under its formal assumptions, makes model formation central to effective regulation.
+
+This is relevant to UCF's model/feedback emphasis but does not authorize one regulator or convert prediction into legitimacy.
+
+### Double-loop learning
+
+Argyris and Schön's organizational-learning distinction between changing action strategies and changing governing variables is a close organizational predecessor to rule/transition revision.
+
+For organizational cases, UCF should route to this established literature rather than redescribe it as a new coherence mechanism.
+
+### Resilience engineering and sustained adaptability
+
+Hollnagel's respond/monitor/learn/anticipate potentials and Woods's graceful extensibility / sustained adaptability directly overlap UCF concerns about preserving adaptive capacity under changing conditions.
+
+In particular, Woods's sustained adaptability is close to the proposed idea of preserving capacity for future adaptation.
+
+### Implication
+
+The state/rule distinction, adaptive regulation, response diversity, model-based regulation, and sustained adaptability should **not** be presented as new UCF discoveries.
+
+If UCF contributes anything, it must be in the disciplined synthesis and cross-domain routing—not ownership of those mechanisms.
+
+Root Sequence's lineage note is the detailed project provenance:
+
+https://github.com/Root-Sequence/root-sequence/blob/dynamic-coherence-adaptive-continuity-2026-09-24/research/dynamic-coherence-lineage.md
+
+---
+
+## 7B. Naming collision: "dynamic coherence" is prior terminology
+
+The phrase **dynamic coherence** has prior uses that are materially different from the Root Sequence synthesis.
+
+Examples identified in this pass include:
+
+- Lane and Oliva (1998), using dynamic coherence in a synthesis of system dynamics and soft systems methodology to refer to consistency between intuitive behavior and behavior derived from causal structure;
+- St-Louis (2026), "Dynamic Coherence Windows," a structural-coherence measurement framework for AI-system outputs.
+
+Therefore UCF should not imply:
+
+- coinage;
+- terminological exclusivity;
+- continuity with those frameworks without explicit comparison.
+
+"Dynamic coherence" remains provisional project language pending naming review.
+
+---
+
 ## 8. What should change in UCF now
 
 ### Keep
