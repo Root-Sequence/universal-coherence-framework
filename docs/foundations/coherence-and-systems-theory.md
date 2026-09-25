@@ -1,5 +1,7 @@
 # Coherence and Systems Theory
 
+> **2026-09-24 audit notice:** This older foundation page is **not the current UCF model** and is awaiting claim-level rewrite. In particular, its cross-domain definition of coherence, generalized-attractor language, claims of multi-level necessity, and implied support for the four UCF state labels exceed the current evidence standard. Use [model v1.1](../../models/ucf-model-v1.1-draft.md) and the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md) for current status. The text below is preserved for provenance, not certified as an established scientific foundation.
+
 **(Foundations Document · Evidence-Based Concepts)**
 
 This document introduces the systems-theoretic basis for coherence. It explains how adaptive systems—biological, artificial, ecological, and organizational—maintain stability, regulate internal states, and transition between modes of coherence.

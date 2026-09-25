@@ -1,5 +1,7 @@
 # Cross-Scale Coherence
 
+> **2026-09-24 audit notice:** Preserve this as speculative historical work. Cross-scale feedback, synchronization, multi-agent coordination, and ecological dynamics are real domain topics, but this page's claims of universal requirements and Unity-style multi-scale resonance are not established by those literatures. See the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md).
+
 **(Speculation Document · Plausible Extensions Built on Foundations)**
 
 This document explores how coherence behaves **across scales** in complex adaptive systems: from individuals to groups, groups to institutions, institutions to ecosystems, and from single agents to multi-agent collectives and distributed networks. All mechanisms are grounded in the Foundations layer (systems theory, resilience engineering, ecology, information theory, multi-agent dynamics, predictive processing) and extended speculatively into future cross-intelligence contexts.

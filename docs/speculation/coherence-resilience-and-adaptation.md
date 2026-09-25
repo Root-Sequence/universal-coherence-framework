@@ -1,5 +1,7 @@
 # Coherence Resilience and Adaptation
 
+> **2026-09-24 audit notice:** Preserve this as speculative historical work. Current review distinguishes resilience, adaptability, restoration, and transformation rather than ranking UCF states by inherent resilience. Allostasis is a biological stress-regulation concept and is not evidence for a universal cross-domain mechanism. See the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md).
+
 **(Speculation Document · Built on Ecological Resilience, Neuroscience, Distributed Systems, and Evolutionary Theory)**
 
 This document establishes the **resilience and adaptation layer** of the Universal Coherence Framework. It explains how systems absorb shocks, recover from perturbation, reorganize under stress, and adapt to maintain coherence over time.
