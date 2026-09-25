@@ -1,5 +1,7 @@
 # Coherence Developmental Trajectories
 
+> **2026-09-24 audit notice:** Preserve this as speculative historical work. The current UCF model does **not** treat Chaos → Tension → Flow → Unity as a general developmental sequence, maturity ladder, or life-cycle law. Claims about trauma, development, ecology, evolution, and artificial training require separate domain evidence. See the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md).
+
 **(Speculation Document · Built on Developmental Neuroscience, Evolutionary Biology, Systems Theory, RL Curricula, and Collective Development Models)**
 
 This document introduces the **developmental and evolutionary dimension** of the Universal Coherence Framework. It explains how coherence capacities emerge, mature, transform, and evolve across lifespan, species history, learning processes, organizational growth, and distributed intelligence systems.
