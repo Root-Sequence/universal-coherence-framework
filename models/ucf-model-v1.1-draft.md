@@ -79,6 +79,29 @@ Select task-specific observations before interpreting results. Candidates might 
 
 Do not reduce dissent, privacy, personhood, experience, justice, or flourishing to a coherence number. Optimization remains possible inside stated constraints, with explicit choices about objectives and authority. Avoid inventing a scalar merely to make comparison easy.
 
+## 6A. Relationship to domain methods
+
+UCF is not intended to replace a competent domain method.
+
+A cross-domain review should begin by asking what established method already fits the task.
+
+Examples:
+
+- reliability / incident review for service failures;
+- safety analysis for safety-control problems;
+- capability-oriented analysis for substantive human opportunity;
+- viability or control methods for formal constrained reachability;
+- accessibility methods for accessibility;
+- ecological resilience methods for ecological resilience;
+- clinical methods for trauma;
+- neuroscience and philosophy-of-mind methods for consciousness.
+
+UCF may add value by connecting questions that those methods place in different locations—for example temporal path dependence, revision power, future option structure, or displaced burden.
+
+If it adds no consequential distinction, the correct result is **no added value**.
+
+Two AI-assisted editorial pilots on one technical incident produced a near-null result for unique decision-relevant findings from the dynamic-coherence extension. That is weak method-debugging evidence, but it supports keeping UCF's role modest pending independent comparison.
+
 ## 7. What would count against UCF?
 
 The layer review should be revised or abandoned for an application if it adds no useful distinctions beyond an ordinary competent assessment, requires excessive data or effort, or obscures consequential disagreement. The state labels should be narrowed or dropped when they cannot be distinguished except after the outcome is known.
