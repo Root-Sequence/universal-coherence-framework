@@ -18,21 +18,23 @@ It is not a discovered universal law, moral ranking, clinical model, governance 
 
 | Question | Canonical source |
 | --- | --- |
-| Current public orientation, claims boundary, and evidence posture | [`README.md`](README.md) |
+| Current public orientation | [`README.md`](README.md) |
 | Documentation routes | [`docs/README.md`](docs/README.md) |
-| Existing working terms | [`docs/glossary.md`](docs/glossary.md), read under the README's scope cautions |
-| Current model v1 and model notes | [`models/README.md`](models/README.md) |
-| Proposed v1.1 claims, evidence rules, model, and change record | [Draft PR #2](https://github.com/Root-Sequence/universal-coherence-framework/pull/2), not current default-branch canon |
+| Scoped definitions | [`docs/glossary.md`](docs/glossary.md) |
+| Claims and limits | [`docs/claims.md`](docs/claims.md) |
+| Evidence rules | [`docs/evidence.md`](docs/evidence.md) |
+| Model versions and examples | [`models/README.md`](models/README.md) |
+| Release and change history | [`CHANGELOG.md`](CHANGELOG.md) |
 
 ## Current reality
 
-The default branch contains working terms, interpretive and domain writing, a living v1 model, and methodological and evidence boundaries in the README. Its four familiar state labels—Chaos, Tension, Flow, and Unity—are provisional analytical categories, not verified stages every system follows.
+The public default branch contains the preserved v1 model and the proposed v1.1 reconciliation. The v1.1 candidate separates four analytical layers from four optional state labels and adds explicit claims, evidence rules, a synthetic booking-service example, and visible revision history.
 
-Draft PR #2 proposes a more scoped v1.1 treatment plus separate claims, evidence, and change-history documents. That work remains AI-assisted, awaiting author review, and unmerged; its draft-only files must not be treated as current default-branch sources.
+The v1.1 work remains AI-assisted and awaiting author review. It is not a reviewed release or validated universal theory. The booking example is constructed, its software tests establish only implementation behavior, and comparative validation, participant research, and the wider foundations and publication audits remain unfinished.
 
 ## Repository structure
 
-`docs/` contains foundations, domains, speculation, interpretation, and documentation navigation at varying maturity. `models/` owns the current v1 specification and model notes. `publications/` contains publication-oriented artifacts whose individual status must be checked. `related-frameworks/` provides comparisons without implying equivalence.
+`docs/` owns definitions, evidence rules, foundations, interpretation, reconciliation records, and archived earlier forms. `models/` owns explicit model versions and constructed examples. `publications/` contains publication-oriented artifacts whose individual status must be checked. `related-frameworks/` provides comparisons without implying equivalence.
 
 ## Ecosystem connections
 
@@ -45,7 +47,6 @@ UCF is a focused framework within Root Sequence. Other projects may apply, chall
 - Seek counterexamples and record failed mappings.
 - Never borrow credibility from one field to validate an analogy in another.
 - Treat coherence as compatible with plural values, dissent, slack, and boundaries.
-- Do not route readers to draft-only files as if they exist on the default branch.
 
 ## Update contract
 
