@@ -1,10 +1,10 @@
 # Speculation Layer – Index & Overview
 
-This directory contains the **Speculation Layer** of the Universal Coherence Framework (UCF). These documents explore *plausible but unverified* extensions of coherence theory across biological, artificial, collective, ecological, and future intelligences.
+This directory contains the **Speculation Layer** of the Universal Coherence Framework (UCF). These documents preserve exploratory extensions across biological, artificial, collective, ecological, and future-intelligence contexts.
 
-This layer is explicitly marked as **speculative**, but grounded in scientific principles from systems theory, neuroscience, cybernetics, evolutionary biology, cognitive science, AI research, and network science.
+**Audit warning, 2026-09-24:** "speculative" does not mean the extrapolations have already been shown to remain consistent across domains. Several older pages inherit an earlier Chaos → Tension → Flow → Unity progression, use technical terms such as attractor or metastability by analogy, or describe cross-domain requirements too strongly. The current [v1.1 model](../../models/ucf-model-v1.1-draft.md) does **not** require that progression, and the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md) identifies specific corrections.
 
-Use this as your navigation hub.
+Use these pages as a hypothesis archive and question generator. Do not cite them as established foundations without checking the underlying domain literature.
 
 ---
 
@@ -113,14 +113,14 @@ To understand the Speculation Layer in a structured way:
 8. **Future & Cross-Intelligence Models**
 9. **Integration Layer** (final synthesis)
 
-This order mirrors how real systems grow from Chaos → Tension → Flow → Unity.
+This reading order is organizational only. It does **not** claim that real systems generally develop through Chaos → Tension → Flow → Unity.
 
 ---
 
 # ✔️ Status
 
-**30 Speculation Documents Complete.**
-This folder is now fully structured, indexed, and ready for contributors, researchers, or collaborators.
+**30 speculation documents are present, but the evidence audit is incomplete.**
+The folder is structured enough for navigation and critique; individual pages still require claim-level review before technical or research reliance.
 
 If you'd like, I can also generate:
 
