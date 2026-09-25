@@ -1,5 +1,25 @@
 # UCF change record
 
+
+## 2026-09-24: dynamic coherence evidence reconciliation
+
+AI-assisted related-work and evidence-boundary pass prompted by Root Sequence draft PR #21. This is not a release, systematic review, or validation of UCF.
+
+### Added
+
+- Targeted evidence reconciliation across enactive adaptivity, allostasis, ecological resilience/adaptability/transformability, metastability, personality dynamical systems, capability theory, viability/reachability, and information-theoretic empowerment.
+- Proposed comparative validation protocol designed to test UCF against a competent domain baseline rather than merely demonstrate that UCF can describe a case.
+
+### Changed
+
+- Extended proposed model v1.1's temporal layer to distinguish current-state change from changes in later transition behavior, retained history, future possibility, lock-in, and revision power.
+- Corrected the Speculation index so its reading order is not presented as a real-world Chaos → Tension → Flow → Unity developmental sequence.
+- Marked high-risk older systems-theory, attractor, resilience/adaptation, developmental, and cross-scale pages with explicit audit notices while preserving their text for provenance.
+
+### Evidence boundary
+
+The pass found serious adjacent literatures for many components but did **not** establish "dynamic coherence" as an established scientific variable, a universal causal mechanism, or a method that outperforms existing systems approaches. Those remain open tests.
+
 ## 2026-09-16: interruption recovery and verification
 
 Confirmed the saved UCF candidate, recovered the companion living-paper changes, and reran the executable example from files matching their Git blob hashes. Eight unittest tests and six additional sanity checks passed; the report contains 24 distinct sensitivity fixtures. The untraceable 700-case / 561-match progress statement is excluded from the evidence record.
