@@ -1,5 +1,7 @@
 # Coherence Attractors and Basins
 
+> **2026-09-24 audit notice:** Preserve this as speculative historical work. Formal attractors are domain/model-specific. The current framework does **not** establish Chaos, Tension, Flow, and Unity as generalized attractor categories across biological, social, ecological, and artificial systems. See the [dynamic-coherence evidence reconciliation](../dynamic-coherence-evidence-audit-2026-09-24.md).
+
 **(Speculation Document · Plausible Extensions Built on Foundations)**
 
 This document provides the dynamical-systems backbone of the Universal Coherence Framework. It interprets the four UCF coherence states—Chaos, Tension, Flow, Unity—as **attractor classes** within a broader **coherence landscape**. The concepts here draw from dynamical systems theory, resilience science, neural attractor models, complexity theory, and multi-agent coordination research, then extend plausibly into cross-intelligence and distributed future contexts.
