@@ -2,6 +2,8 @@
 
 **(Speculation Document · Built on Embodied Cognition, Cybernetics, Ecology, Multi-Agent Systems)**
 
+> **Interpretive caution:** boundary permeability is not a scalar good and should not be read as a universal measure of coherence, autonomy, or ethical quality. See [Permeability, Agency, and Relationship](../interpretation/permeability-agency-and-relationship.md) for a newer cross-project boundary note.
+
 This document formalizes the role of **boundaries** and **interfaces** in the Universal Coherence Framework — the structures that define where systems interact, how coherence flows across them, and how autonomy is preserved.
 
 Boundaries are not obstacles; they are **structural supports** for coherent, adaptive behavior. Interfaces are the **designed or evolved channels** that allow information, influence, and coordination to cross those boundaries.
