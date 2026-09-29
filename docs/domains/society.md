@@ -166,6 +166,13 @@ This is especially important when UCF is applied to governance or institutional 
 
 Related broad systems analysis: `Root-Sequence/root-sequence/analysis/collective-judgment-and-manufactured-consensus.md`.
 
+Related Root Sequence inquiry methods:
+
+- [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) — compare situated accounts and competing mechanisms before treating convergence as evidence.
+- [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md) — build sufficient shared understanding before consequential authorization and preserve uncertainty after action.
+
+For UCF, these links are **constraints on interpretation**, not proof of the framework: apparent agreement can still be false coherence, disagreement can remain functional, and counterexamples should revise or bound an application rather than be forced into the vocabulary.
+
 ---
 
 ## 9. Economics as Flow-Based Coherence
