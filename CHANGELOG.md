@@ -55,3 +55,7 @@ Contribution rules now require claim-level sources or explicit evidence gaps rat
 The synthetic example shows that allocation changes can redistribute access without eliminating unmet service work. It does not establish a preferred real-world rule or added value over an ordinary competent systems review. Software checks are not empirical validation.
 
 The full foundations, glossary bibliography, domain, and publication audits remain open under issue #1. Private material, other repositories' canon, and live sites are outside this change. The companion living-paper changes remain in its existing draft PR #6.
+
+## 2026-10-07 — Commons collaboration proposal
+
+Extended contribution guidance and README routing for dissent, negative findings, maintenance burdens, and revision. No model, claim register, evidence status, example behavior, or release is changed.

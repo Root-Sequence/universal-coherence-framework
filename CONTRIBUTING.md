@@ -39,3 +39,9 @@ Critique ideas rather than people, make disagreements understandable, and welcom
 ## License
 
 Original contributions are dedicated under CC0 1.0 Universal, as recorded in [LICENSE](LICENSE). Do not relicense third-party material you do not own. Preserve appropriate source attribution, notices, and rights boundaries for any cited or separately licensed work.
+
+## Learning as a commons
+
+The [shared collaboration proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) treats correction, useful dissent, forks, and negative findings as possible contributions. For UCF, compare a bounded model against alternatives and record where it adds no value. Do not use a coherence label to rank contributors, resolve normative disagreement, or grant authority.
+
+Make review and maintenance burdens visible; small contributions, pauses, and departure remain legitimate. Voluntary feedback is not a universal participant score or a research protocol. An application or synthetic example can inform revision without validating the whole framework.
