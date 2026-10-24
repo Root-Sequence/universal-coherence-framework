@@ -75,3 +75,7 @@ The priority is to compare definitions and methods on bounded cases, examine how
 Research, code, counterexamples, alternative definitions, diagrams, translations, critique, and accessible explanations are welcome. UCF may be narrowed or rejected where it stops helping. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 CC0, as recorded in [LICENSE](LICENSE). The citation metadata identifies the project; cite an exact Git revision and do not infer scientific validation or paper-author approval from it.
+
+## Collaboration and revision
+
+The [contribution guide](CONTRIBUTING.md#learning-as-a-commons) applies commons questions through counterexamples, negative findings, review burden, and meaningful disagreement. The framework may be narrowed or rejected; neither agreement nor a coherence label establishes authority or empirical validity.
