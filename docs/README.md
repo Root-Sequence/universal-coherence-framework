@@ -13,6 +13,8 @@ These categories are distinct from both the model's four analytical layers and t
 
 ## Reading paths
 
+For a bounded governance/design interpretation, [Contextual Coherence](interpretation/contextual-coherence.md) maps shared protections, local rules, interfaces, and legitimate revision to the proposed analytical layers. It is an untested translation of a separate Root Sequence inquiry, not a model revision or governance mandate.
+
 For research, begin with evidence status and the relevant domain sources. For design, use the model and [worked booking example](../models/examples/booking-service/README.md), then test against a competent baseline. For social or ecological questions, use the domain documents without treating UCF terminology as authority over people or ecosystems. For meaning and narrative, keep interpretation separate from claims about the world.
 
 [The 2026-09-24 dynamic-coherence evidence reconciliation](dynamic-coherence-evidence-audit-2026-09-24.md) maps adaptation, viability, agency, resilience, metastability, allostasis, and related concepts to checked literatures before further UCF adoption. [Idea Trails](idea-trails.md) connect the work across Root Sequence. [The reconciliation record](reconciliation-2026-09-16.md) identifies the living-paper relationship and unfinished audit. [Historical documents](archive/README.md) preserve earlier formulations; they are not the current evidence status.

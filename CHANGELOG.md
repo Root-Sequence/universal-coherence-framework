@@ -1,5 +1,9 @@
 # UCF change record
 
+## 2026-10-29: contextual coherence interpretation
+
+Adds a review-pending, AI-assisted interpretation of Root Sequence's Coherence Without Uniformity principle, with an optional four-layer mapping and an unexecuted comparison against competent domain review. Keeps difference and dissent separate from failure, technical capability separate from legitimate authority, and rule rollback separate from repair. The canonical principle and evidence ledger remain in Root Sequence. No model version, equation, state, claim-series result, example code, empirical validation, adoption, or release changes.
+
 
 ## 2026-09-24: dynamic coherence evidence reconciliation
 
